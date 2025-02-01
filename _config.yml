@@ -12,7 +12,7 @@ title                    : "Dongxu Wang"
 title_separator          : "-"
 name                     : &name "Dongxu Wang"
 description              : &description "personal description"
-url                      : https://patrick647.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://dongxu.link # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "patrick647/patrick647.github.io"
 
